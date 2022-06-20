@@ -1,9 +1,9 @@
 # ESAS_design
 ESAS is exponent series based approximate square root design, It is part of new methodlogy called approximate computing which draw the benefit of low hardware
-cost at the expense of accuracy. ESAS generates approximate square root of radicand it perform better than LESQ-EC in terms of accuracy another approxinmate 
+cost at the expense of accuracy. ESAS generates approximate square root of radicand.It perform better than LESQ-EC in terms of accuracy which is another approxinmate 
 squar root and also perform well in the hardware parameter w.r.t traditional restoring array based square root which is accurate square root design. While LESQ-EC
 is limited with integer implementation and restoring array is limited to the fixed or integer implementation, ESAS designed for all three representaion which make
-it suitable for numerous application which uses different number representation.
+it suitable for numerous application which may use different data format.
 
 In this project Hardware Implementation of ESAS for three different data formats including Integer, fixed and IEEE half precision floating point format 
 along with Implementation of LESQ-EC and Restoring array based square root. All the verilog code for these implemenattion is available in verilog folder.
