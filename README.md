@@ -16,5 +16,4 @@ For error analaysis of these approximate square root designs three different mat
 of ESAS for all data format over LESQ-EC for this analysis over half million random inputs are given to these designs. Error rate shows rate at which error are generated
 by these desgins code for this calculation also provided in matlab. In error analysis code Normalize mean error distance and mean realtive error distance are calculated.
  
-
-
+![Hardware_implement](https://user-images.githubusercontent.com/90371805/174610669-e14bfcc4-cd25-4d3b-bce4-9655b904d49a.png)
