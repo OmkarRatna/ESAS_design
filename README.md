@@ -12,5 +12,9 @@ are written in matlab and logical equivalent code for square root design written
 folder.Sobel edge detection application evaluated on three parameter namely SSIM,PSNR and MSE, while AM demodulation evaluation SNR is used to validate these square 
 root designs.
 
-For error analaysis of these approximate square root designs three different matlab code also uploaded in matlab folder.In which error disribution code over half 
-million random inputs are provided to these design and error distribution plots are plotted which clearly shows advantage of ESAS all implementation over  
+For error analaysis of these approximate square root designs three different matlab code also uploaded in matlab folder.Error distribution plot shows clear improvement
+of ESAS for all data format over LESQ-EC for this analysis over half million random inputs are given to these designs. Error rate shows rate at which error are generated
+by these desgins code for this calculation also provided in matlab. In error analysis code Normalize mean error distance and mean realtive error distance are calculated.
+ 
+
+
