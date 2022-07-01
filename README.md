@@ -1,4 +1,5 @@
 # ESAS_design
+ESAS is research paper accepted in Euromicro DSD-2022 conference and will be presented in august 2022.
 ESAS is exponent series based approximate square root design, It is part of new methodlogy called approximate computing which draw the benefit of low hardware
 cost at the expense of accuracy. ESAS generates approximate square root of radicand.It perform better than LESQ-EC in terms of accuracy which is another approxinmate 
 squar root and also perform well in the hardware parameter w.r.t traditional restoring array based square root which is accurate square root design. While LESQ-EC
